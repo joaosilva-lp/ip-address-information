@@ -1,7 +1,7 @@
 # ip-address-information
 Check location and other informations of an IP address
 
-For example:
+output example:
 
 {
   "status": "success",
